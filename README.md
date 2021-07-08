@@ -2,6 +2,7 @@
 인프런 강의 [따라하며 배우는 유튜브 만들기 강의](https://www.inflearn.com/course/따라하며-배우는-노드-리액트-유튜브-만들기#curriculum) 을 듣고 공부한 내용입니다.
 
 ------------
+### Boilerplate MERN stack README 내용 
 Hello, My Friends  
 Thank you for having interest in this repository ! 
 
